@@ -6,10 +6,10 @@ allowing employees to manage employees, available movies, movie screenings, show
 (tickets and snacks) and movie gross sales (sales per movie). The system provides functionalities for both administrators and customers, ensuring smooth and efficient cinema operations.
 
 **TECHNOLOGIES USED:**
-1. Java - The transaction and maintenance features of the database application are developed using Java, providing the logic and functionality to handle various operations such as database interactions.
-2. SQL - MySQL is used as the database management system to store and manage data related to the cinema, including information about employees, showtimes/screenings, movies, and snacks/drinks.
-3. HTML - Simple front-end interfaces for the application are developed using HTML to create user-friendly interfaces for both administrators/employees and customers.
-4. JSP - JSP is used for dynamic web pages, allowing Java code to be embedded within HTML pages to generate dynamic content and interact with backend components.
+1. **Java** - The transaction and maintenance features of the database application are developed using Java, providing the logic and functionality to handle various operations such as database interactions.
+2. **SQL** - MySQL is used as the database management system to store and manage data related to the cinema, including information about employees, showtimes/screenings, movies, and snacks/drinks.
+3. **HTML** - Simple front-end interfaces for the application are developed using HTML to create user-friendly interfaces for both administrators/employees and customers.
+4. **JSP** - JSP is used for dynamic web pages, allowing Java code to be embedded within HTML pages to generate dynamic content and interact with backend components.
 
 **FEATURES:**
 1. Maintenance
