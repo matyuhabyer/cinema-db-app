@@ -18,6 +18,3 @@ allowing employees to manage employees, available movies, movie screenings, show
 
 **USAGE:**
 It is recommended to use the Apache NetBeans IDE to run the database application. Connect the Apache Tomcat Server, JDK 22, and MySQL connector to the library of the database application in the IDE, and connect the SQL file (cinema_db) to the databases found in the Services tab of the IDE.
-
-**CONTRIBUTOR:**
-1. Matthew Benison T. Javier
